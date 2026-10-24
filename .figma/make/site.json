@@ -1,0 +1,10 @@
+{
+  "description": "Streamline the monitoring and tracking of institution-related complaints across AICTE Bureaus with a visually engaging, user-friendly dashboard.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
